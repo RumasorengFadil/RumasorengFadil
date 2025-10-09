@@ -23,9 +23,9 @@ I love crafting scalable web applications with clean UI and solid backend archit
 ---
 
 ## 📈 GitHub Stats
-![Fadil's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadilrms&show_icons=true&theme=tokyonight)
+![Fadil's GitHub stats](https://github-readme-stats.vercel.app/api?username=RumasorengFadil&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadilrms&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RumasorengFadil&layout=compact&theme=tokyonight)
 
 ---
 
