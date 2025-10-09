@@ -10,7 +10,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 - 🚀 Currently improving my skills through freelance projects and independent product development under [bbyts](https://github.com/bbyts).
 
-- ❤️ I love writing TypeScript, and learning something new.
+- ❤️ I love writing TypeScript, Javascript and learning something new.
 
 - 💬 Ask me about anything [here](https://github.com/RumasorengFadil/RumasorengFadil/issues)
 
@@ -30,10 +30,10 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/rumasorengfadil/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rumasorengfadil&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/rumasorengfadil/rumasorengfadil.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rumasorengfadil&repo=rumasorengfadil.github.io&theme=buefy" />
 </a>
 
