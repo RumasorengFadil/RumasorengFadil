@@ -33,7 +33,7 @@ I'm a self-taught passionate Fullstack developer from Indonesia
 #### Top Repositories
 
 
-<a href="https://github.com/RumasorengFadil/bbyts">
+<a href="https://github.com/RumasorengFadil/Point-of-Sale-Application">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RumasorengFadil&repo=bbyts&theme=buefy" />
 </a>
 <a href="https://github.com/RumasorengFadil/nextjs-modern-portofolio-v1">
