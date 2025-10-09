@@ -24,7 +24,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d045022d4d/topics/mysql/mysql.png"></code>  
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/rumasorengfadil/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/rumasorengfadil/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rumasorengfadil&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="fadilrumasoreng's github stats" /></a> | <a href="https://github.com/rumasorengfadil/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumasorengfadil&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
@@ -34,7 +34,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rumasorengfadil&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rumasorengfadil&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rumasorengfadil&repo=rumasorengfadil.github.io&theme=buefy" />
 </a>
 
 <br />
