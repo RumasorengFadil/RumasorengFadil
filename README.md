@@ -3,7 +3,6 @@
 🚀 I'm a **Fullstack Developer** specialized in **Laravel + React/Next.js**.  
 I love crafting scalable web applications with clean UI and solid backend architecture.
 
----
 
 ## 🧠 About Me
 - 🌱 Learning: **Advanced Next.js 15 & Cloud Infrastructure (CI/CD, Docker)**.
@@ -12,7 +11,6 @@ I love crafting scalable web applications with clean UI and solid backend archit
 - 📄 Know about my experiences on https://www.rumasoreng.com/
 - ⚡ Fun fact: I automate boring things before finishing my coffee ☕.
 
----
 
 ## 🛠️ Tech Stack
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -21,14 +19,12 @@ I love crafting scalable web applications with clean UI and solid backend archit
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
 
 ## 📈 GitHub Stats
 ![Fadil's GitHub stats](https://github-readme-stats.vercel.app/api?username=RumasorengFadil&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RumasorengFadil&layout=compact&theme=tokyonight)
 
----
 
 ## 🌍 Connect With Me
 [![Portfolio](https://img.shields.io/badge/Website-%230077B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rumasoreng.com)
