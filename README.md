@@ -1,35 +1,39 @@
-# 👋 Hi, I'm Fadil Rumasoreng
+# 👋 Hi, I'm Fadil
 
-🚀 I'm a **Fullstack Developer** specialized in **Laravel + React/Next.js**.  
-I love crafting scalable web applications with clean UI and solid backend architecture.
-
----
-
-## 🧠 About Me
-- 🔭 Currently working on: **bbyts**, a tech initiative focusing on web & mobile solutions.
-- 🌱 Learning: **Advanced Next.js 15 & Cloud Infrastructure (CI/CD, Docker)**.
-- 💬 Ask me about: Laravel, React, API design, and web architecture.
-- ⚡ Fun fact: I automate boring things before finishing my coffee ☕.
+I'm a **Fullstack Developer** passionate about building web applications that are fast, reliable, and easy to use.  
+Currently focusing on **Laravel + React (Inertia/Next.js)** stack and exploring **system design & scalability**.
 
 ---
 
-## 🛠️ Tech Stack
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 🚀 Tech Stack
+- **Frontend:** React, Next.js, Inertia.js, ShadCN/UI  
+- **Backend:** Laravel, RESTful API, MySQL, Redis  
+- **Tools:** GitHub Actions (CI/CD), Docker, VS Code  
+- **Other:** UI/UX Design, SEO Optimization  
 
 ---
 
-## 📈 GitHub Stats
-![Fadil's GitHub stats](https://github-readme-stats.vercel.app/api?username=RumasorengFadil&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RumasorengFadil&layout=compact&theme=tokyonight)
+### 📊 GitHub Stats
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=fadilrms&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadilrms&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌍 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Website-%230077B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rumasoreng.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fadilrms)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fadilrms)
+### 🧠 Currently Learning
+- Advanced Laravel Architecture (Service Pattern, Event-Driven)
+- Next.js 15 (SSR, Edge Middleware, SEO)
+- System Design for Scalable Web Apps  
+
+---
+
+### 🌐 Connect With Me
+- 🌍 [Website](https://www.rumasoreng.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fadilrms)  
+- 💬 [Twitter](https://twitter.com/fadilrms)  
+
+---
+
+> _“Code with clarity. Build with purpose.”_ 🧩
+
