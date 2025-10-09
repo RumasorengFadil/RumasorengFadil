@@ -33,11 +33,11 @@ I'm a self-taught passionate Fullstack developer from Indonesia
 #### Top Repositories
 
 
-<a href="https://github.com/RumasorengFadil/rumasorengfadil.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RumasorengFadil&repo=rumasorengfadil.github.io&theme=buefy&cache_seconds=86400" />
-</a>
 <a href="https://github.com/RumasorengFadil/bbyts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RumasorengFadil&repo=bbyts&theme=buefy&cache_seconds=86400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RumasorengFadil&repo=bbyts&theme=buefy" />
+</a>
+<a href="https://github.com/RumasorengFadil/nextjs-modern-portofolio-v1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RumasorengFadil&repo=nextjs-modern-portofolio-v1&theme=buefy" />
 </a>
 
 <br />
