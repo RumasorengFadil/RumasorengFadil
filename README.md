@@ -20,9 +20,9 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="35" height="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="35" height="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="20" height="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Next.js" width="20" height="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="35" height="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35" height="20"/>
 </p>
 
@@ -33,10 +33,10 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 #### Top Repositories
 
 
-<a href="https://github.com/rumasorengfadil/github-readme-stats">
+<a href="https://github.com/nextjs-modern-portofolio-v1/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rumasorengfadil&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/rumasorengfadil/rumasorengfadil.github.io">
+<a href="https://github.com/bbyts/bbyts.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rumasorengfadil&repo=rumasorengfadil.github.io&theme=buefy" />
 </a>
 
