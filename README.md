@@ -34,7 +34,7 @@ I'm a self-taught passionate Fullstack developer from Indonesia
 
 
 <a href="https://github.com/RumasorengFadil/Point-of-Sale-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RumasorengFadil&repo=bbyts&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RumasorengFadil&repo=Point-of-Sale-Application&theme=buefy" />
 </a>
 <a href="https://github.com/RumasorengFadil/nextjs-modern-portofolio-v1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RumasorengFadil&repo=nextjs-modern-portofolio-v1&theme=buefy" />
