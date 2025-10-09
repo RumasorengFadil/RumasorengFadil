@@ -33,19 +33,17 @@ I'm a self-taught passionate FrontEnd developer from Indonesia
 #### Top Repositories
 
 
-<a href="https://github.com/nextjs-modern-portofolio-v1/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rumasorengfadil&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/RumasorengFadil/rumasorengfadil.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RumasorengFadil&repo=rumasorengfadil.github.io&theme=buefy&cache_seconds=86400" />
 </a>
-<a href="https://github.com/bbyts/bbyts.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rumasorengfadil&repo=rumasorengfadil.github.io&theme=buefy" />
+<a href="https://github.com/RumasorengFadil/bbyts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RumasorengFadil&repo=bbyts&theme=buefy&cache_seconds=86400" />
 </a>
 
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+## 🌍 Connect With Me
+[![Portfolio](https://img.shields.io/badge/Website-%230077B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rumasoreng.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fadilrms)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fadilrms)
