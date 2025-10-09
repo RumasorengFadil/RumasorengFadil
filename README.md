@@ -1,32 +1,45 @@
-# 👋 Hi, I'm Fadil Rumasoreng
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Fadil Rumasoreng I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-🚀 I'm a **Fullstack Developer** specialized in **Laravel + React/Next.js**.  
-I love crafting scalable web applications with clean UI and solid backend architecture.
+<br />
 
+I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
-## 🧠 About Me
-- 🌱 Learning: **Advanced Next.js 15 & Cloud Infrastructure (CI/CD, Docker)**.
-- 💬 Ask me about: Laravel, React, API design, and web architecture.
-- 📝 I regularly write articles on https://www.rumasoreng.com/explore/
-- 📄 Know about my experiences on https://www.rumasoreng.com/
-- ⚡ Fun fact: I automate boring things before finishing my coffee ☕.
+**About me**
 
+- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
 
-## 🛠️ Tech Stack
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
 
-## 📈 GitHub Stats
-![Fadil's GitHub stats](https://github-readme-stats.vercel.app/api?username=RumasorengFadil&show_icons=true&theme=tokyonight)
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RumasorengFadil&layout=compact&theme=tokyonight)
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-## 🌍 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Website-%230077B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rumasoreng.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fadilrumasoreng)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fadilrms)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
