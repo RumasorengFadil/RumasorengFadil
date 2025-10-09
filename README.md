@@ -15,8 +15,8 @@ Currently focusing on **Laravel + React (Inertia/Next.js)** stack and exploring 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=fadilrms&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadilrms&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RumasorengFadil&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RumasorengFadil&layout=compact&theme=tokyonight" />
 </p>
 
 ---
