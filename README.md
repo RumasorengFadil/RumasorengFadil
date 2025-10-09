@@ -16,12 +16,15 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 - ⚡ Fun fact: I automate boring things before finishing my coffee ☕.
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nextjs" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nextjs/nextjs.png"></code>
-<code><img height="20" alt="laravel" src="https://raw.githubusercontent.com/github/explore/42b48e7a1328bb5b26c22c214f67339b1c6b52b4/topics/laravel/laravel.png"></code>
-<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d045022d4d/topics/mysql/mysql.png"></code>  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35" height="35"/>
+</p>
 
 
 | <a href="https://github.com/rumasorengfadil/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rumasorengfadil&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="fadilrumasoreng's github stats" /></a> | <a href="https://github.com/rumasorengfadil/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumasorengfadil&layout=compact&theme=buefy&hide_border=true" /></a> |
