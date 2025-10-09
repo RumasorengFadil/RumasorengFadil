@@ -43,7 +43,8 @@ I'm a self-taught passionate FrontEnd developer from Indonesia
 <br />
 <br />
 
-#### 🌍 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Website-%230077B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rumasoreng.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fadilrms)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fadilrms)
+#### Connect With Me
+- 🌍 [Website](https://www.rumasoreng.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fadil-hijayat-rumasoreng-4944671b9)  
+- 💬 [Twitter](https://twitter.com/fadilrms)  
+
