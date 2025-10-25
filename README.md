@@ -8,7 +8,7 @@ I'm a self-taught passionate Fullstack developer from Indonesia
 
 - 💻 Fullstack Developer (Laravel + React/Next.js) passionate about building scalable web applications with clean UI and great UX.
 
-- 🚀 Currently improving my skills through freelance projects and independent product development under [bbyts](https://github.com/bbyts).
+- 🚀 Currently improving my skills through freelance projects and independent product development under [bbyts](https://www.bbyts.com).
 
 - ❤️ I love writing TypeScript, Javascript and learning something new.
 
