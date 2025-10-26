@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate Fullstack developer from Indonesia 
+I’m a Fullstack Web Developer passionate about building scalable, SEO friendly, safety, elegant web solutions that solve real business problems.
 
 **About me**
 
