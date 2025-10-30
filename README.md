@@ -14,7 +14,7 @@ I’m a Fullstack Web Developer passionate about building scalable, SEO friendly
 
 - 💬 Ask me about anything [here](https://github.com/RumasorengFadil/RumasorengFadil/issues)
 
-- ⚡ Fun fact: I automate boring things before finishing my coffee ☕.
+- ⚡ Fun fact: I automate boring things before finishing my coffee.
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>
