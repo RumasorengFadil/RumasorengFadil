@@ -36,7 +36,7 @@ I’m a Fullstack Web Developer passionate about building scalable, SEO friendly
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RumasorengFadil&repo=nextjs-modern-portofolio-v1&theme=buefy" />
 </a>
 <a href="https://github.com/RumasorengFadil/Point-of-Sale-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RumasorengFadil&repo=Point-of-Sale-Application&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RumasorengFadil&repo=nextjs-premium-portofolio-v1&theme=buefy" />
 </a>
 
 
