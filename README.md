@@ -27,10 +27,21 @@ I’m a Fullstack Web Developer passionate about building scalable, SEO friendly
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/>
 </p>
 
-| <a href="https://github.com/rumasorengfadil/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rumasorengfadil&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="fadilrumasoreng's github stats" /></a> | <a href="https://github.com/rumasorengfadil/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumasorengfadil&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+### 📈 GitHub Stats
 
-#### Top Repositories
+<div align="left">
+  <a href="https://github.com/itsmutasem">
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rumasorengfadil&show_icons=true&theme=buefy&hide=prs&count_private=true&custom_title=My%20GitHub%20Stats&hide_rank=false&card_width=450" alt="GitHub Stats" /> -->
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rumasorengfadil&theme=buefy&hide_border=true&border_radius=10&card_width=450" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumasorengfadil&layout=compact&theme=buefy&hide_border=true&border_radius=10&langs_count=14&hide_progress=false" alt="Most Used Languages">
+  </a>
+</div>
+
+<p align="center">
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=fadilrumasoreng&theme=buefy" alt="GitHub Contribution Graph" /> -->
+<!-- </p> -->
+
+### 🔝Top Repositories
 
 <a href="https://github.com/RumasorengFadil/nextjs-modern-portofolio-v1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RumasorengFadil&repo=nextjs-modern-portofolio-v1&theme=buefy" />
@@ -39,9 +50,14 @@ I’m a Fullstack Web Developer passionate about building scalable, SEO friendly
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RumasorengFadil&repo=nextjs-premium-portofolio-v1&theme=buefy" />
 </a>
 
+<br />
+<br />
 
-<br />
-<br />
+### 💡 Random Dev Quote
+
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=muefy">
+</p>
 
 #### Connect With Me
 [![Portfolio](https://img.shields.io/badge/Website-%230077B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rumasoreng.com)
