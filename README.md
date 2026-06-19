@@ -1,3 +1,8 @@
+<!-- Header with Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=dfdfdfff&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Fadil+Rumasoreng!;Fullstack+NextJs+NestJs+Laravel+Developer" />
+</h1>
+
 <p align="center"><a href="https://www.rumasoreng.com/"><img width="80%" alt="Hello, I'm Fadil Rumasoreng I do open source!" src="./public/hero-readme-header.png" /></a></p>
 
 <br />
